@@ -1,6 +1,7 @@
 # 🐱‍💻 ⟩ TrabalhosCurso 
-<img align="right" width="300px" src="./8d0.gif">
 <br>
+
+<img align="right" width="300px" src="./8d0.gif">
 Alguns trabalhos para meu curso de Lógica de Programação, alguns deles eu não consegui/não entendi, mas sinto que grande maioria está correto. Este é apenas um projeto de iniciante, então não espere muita coisa.<br></br>
 
 Um salve para o professor [Gabriel Librande](https://github.com/Gabiru-cpu) e meus manos [Ricardo](https://github.com/Ribruno), Alan e Gabriel²!
