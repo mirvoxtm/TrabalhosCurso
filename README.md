@@ -17,19 +17,22 @@ Um salve para o professor [Gabriel Librande](https://github.com/Gabiru-cpu) e me
 
 <br></br>
  ## 👾 ⟩ TrabalhoCurso2.c
- - [x] Receber um valor qualquer do teclado e imprimir esse valor, dps envie a % que voce quer desse numero
+ - [ ] Receber um valor qualquer do teclado e imprimir esse valor, dps envie a % que voce quer desse numero
 e depois printar o numero enviado, porcentagem que o usuario deseja, resultado dessa porcentagem e o reajuste.
 <img align="center" src="./gifs/trab2.gif">
+(Não tenho certeza se isso está certo, então.....)
 
 <br></br>
  ## 👾 ⟩ TrabalhoCurso3.c
- - [ ] Informar um preço de um produto e calcular novo preço com desconto de 9%.
+ - [x] Informar um preço de um produto e calcular novo preço com desconto de 9%.
 <img align="center" src="./gifs/trab3.gif">
+(Bom, o Google diz que 9% de 50 é 45, então, acho que está certo--)
 
 <br></br>
  ## 👾 ⟩ TrabalhoCurso4.c
  - [ ] Cálculo de um salário líquido de um professor. Serão fornecidos valor da hora aula, número de aulas dadas e o % de desconto do INSS.
 <img align="center" src="./gifs/trab4.gif">
+(Esse...foi o mais próximo que entendi.)
 
 <br></br>
  ## 👾 ⟩ TrabalhoCurso5.c
